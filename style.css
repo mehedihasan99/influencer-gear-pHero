@@ -307,7 +307,7 @@ contact style end
     justify-content: space-evenly;
     align-items: center;
     background-color: #dd7a9e;
-
+    margin: 0 auto;
     min-height: 320px;
   }
   .logo h2 {
