@@ -99,6 +99,10 @@ nav {
   font-size: 16px;
   color: #3a3a3a;
   font-weight: 600;
+  transition: color 0.3s;
+}
+.navigation a:hover {
+  color: #dd7a9e;
 }
 .nav-card {
   font-size: 29px;
