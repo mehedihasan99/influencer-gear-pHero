@@ -421,6 +421,9 @@ contact style end
   .right-banner {
     margin: 0 auto;
   }
+  .logo h2 {
+    font-size: 22px;
+  }
   .left-banner h1 {
     font-size: 50px;
   }
